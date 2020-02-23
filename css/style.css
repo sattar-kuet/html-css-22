@@ -1,0 +1,20 @@
+html {
+    background-color: orange;
+}
+.grand-parent {
+    background-color: black;
+    width: 760px;
+    padding: 24px;
+}
+.parent {
+    background-color: green;
+    height: 80px;
+    width: 760px;
+}
+.child1 {
+    background-color: red;
+    margin-bottom: 20px;
+}
+.child2 {
+    background-color: white;
+}
